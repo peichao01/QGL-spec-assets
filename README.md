@@ -1,0 +1,1 @@
+# QGL-spec-assets
